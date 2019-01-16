@@ -3,3 +3,6 @@ flower
 leaves
 Trees 
 colours
+
+purple 
+yellow
